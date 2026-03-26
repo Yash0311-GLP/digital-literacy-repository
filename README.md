@@ -15,8 +15,7 @@ This repository contains all tasks for the Digital Literacy project.
 
 Completed a beginner-level coding problem on HackerRank
 Created a Digital Literacy Quiz using Google Forms
-🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfy8MPEdSqcQ_0vsi9N0KWsX2fjq4dWlioSGmkCADh6tfbk9A/viewform?usp=header
-
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfy8MPEdSqcQ_0vsi9N0KWsX2fjq4dWlioSGmkCADh6tfbk9A/viewform?usp=publish-editor
 ###Task 4: Email & Communication Etiquette
 
 Wrote two professional emails:
